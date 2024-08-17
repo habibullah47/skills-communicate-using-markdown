@@ -1,7 +1,7 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
+  <<< [Actually th]Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
@@ -20,7 +20,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+# Step 0: It is tested by HABIB when he learn and make commit of this page. 
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
